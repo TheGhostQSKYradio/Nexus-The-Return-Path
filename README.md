@@ -2,9 +2,22 @@
 
 ### A Citizen Proposal for Fiscal Resilience, Memory, and Accountability
 
-**Status:** Academic Review / Pre-Publication Development  
-**Current Edition:** Validation-Reviewed Development Edition  
+**Status:** Academic Review / Pre-Publication Development
+
+**Current Edition:** APA Academic Review Edition — Version 0.2
+
 **Last Updated:** September 2026
+
+## Current Publication
+
+### APA Academic Review Edition — Version 0.2
+
+- [Read / Download the PDF](publications/apa/Nexus_The_Return_Path_APA_Academic_Review_Edition_v0.2.pdf)
+- [Download the editable DOCX](publications/apa/Nexus_The_Return_Path_APA_Academic_Review_Edition_v0.2.docx)
+
+**Status:** Academic Review Draft — September 2026
+
+This edition incorporates the six-gate review architecture, stakeholder incentive compatibility, adaptive waypoints, the field-state comparative perspective, and the Nexus self-alignment framework.
 
 > **Test it. Challenge it. Measure it.**  
 > A proposal to test — not a claim to trust.
