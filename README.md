@@ -1,5 +1,13 @@
 # NEXUS — The Return Path
 
+> ## Read This First
+> Before reading the main Nexus proposal, begin with the
+> **[Prolegomenon — Preamble: Establishing the Meaning of Value](00_READ_THIS_FIRST_PROLEGOMENON.md)**.
+>
+> It provides the contextual foundation for the Real-Value Standard,
+> including the four forms of monetary value, the Economic Field-State
+> Comparative Lens, and the slide-rule method.
+
 ### A Citizen Proposal for Fiscal Resilience, Memory, and Accountability
 
 **Status:** Academic Review / Pre-Publication Development
